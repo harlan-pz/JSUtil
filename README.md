@@ -8,3 +8,4 @@
 * React项目基本模板(使用webpack搭建，包含babel,自定义的eslint,react-router等常用第三方库)
 * React + typescipt项目模板（使用webpack搭建，包含babel,自定义的eslint,react-router等常用第三方库）
 * React简单计数器(展示了redux,react-redux,redux-action的用法)
+* Vue项目基本模板(使用webpack搭建,包含eslint,babel,scss等基本工具)
